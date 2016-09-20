@@ -5,4 +5,4 @@ Path to MSbuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild
 msbuild <path to csproj> file
 
 
-![alt text](http://imgur.com/a/S2eF9)
+![alt tag](http://imgur.com/a/S2eF9)
